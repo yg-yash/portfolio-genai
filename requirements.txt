@@ -1,0 +1,8 @@
+sentence-transformers
+transformers
+torch
+accelerate
+pinecone
+fastapi
+uvicorn
+python-dotenv

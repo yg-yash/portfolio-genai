@@ -1,0 +1,305 @@
+{
+  "name": "Yash Gupta",
+  "title": "Co-Founder & CTO | Senior Software Engineer",
+  "location": "Noida, India",
+  "contact": {
+    "phone": "+91 9457129415",
+    "email": "yg123yash@gmail.com",
+    "linkedin": "linkedin.com/in/yg-yash",
+    "website": "https://yg-yash.github.io/my-portfolio/"
+  },
+  "experience": [
+    {
+      "company": "CarXstream",
+      "location": "Hyderabad",
+      "title": "Co-Founder & CTO",
+      "start_date": "January 2022",
+      "end_date": "Present",
+      "responsibilities": [
+        "Co-founded a scalable AI-driven marketplace for the pre-owned car industry, achieving 50K+ app downloads and 5 million platform hits.",
+        "Integrated Generative AI to power user recommendations and predictive analytics.",
+        "Developed advanced search functionalities using Elasticsearch to improve product discovery.",
+        "Led the development of an AI-powered platform with machine learning for pricing optimization, car inspection recommendations, and user personalization.",
+        "Designed a microservices architecture for scalability and performance.",
+        "Adopted AWS and Google Cloud for system optimization, reducing operational costs."
+      ],
+      "achievements": [
+        "Co-founded CarXstream, a scalable AI-driven marketplace for the pre-owned car industry.",
+        "Achieved 50K+ app downloads and 5 million platform hits.",
+        "Integrated Generative AI to power user recommendations and predictive analytics, driving a personalized shopping experience.",
+        "Developed advanced search functionalities using Elasticsearch, improving product discovery and personalization.",
+        "Led the development of the entire AI-powered platform, integrating machine learning for pricing optimization, car inspection recommendations, and user personalization.",
+        "Designed and implemented a microservices architecture to enhance system scalability, performance, and reliability for millions of interactions.",
+        "Directed cross-functional teams across product development, cloud infrastructure, and AI integration to ensure alignment with business goals.",
+        "Spearheaded the adoption of AWS and Google Cloud for optimized system architecture, improving uptime and reducing operational costs.",
+        "Designed and scaled microservices for distributed systems, ensuring high availability and low latency for millions of users."
+      ]
+    },
+    {
+      "company": "Alumnus Software Ltd",
+      "location": "Kolkata",
+      "title": "Software Engineer",
+      "start_date": "March 2021",
+      "end_date": "January 2022",
+      "responsibilities": [
+        "Developed an AI-powered Android application leveraging Large Language Models (LLMs) for intelligent user interactions.",
+        "Implemented advanced NLP capabilities to enhance responsiveness and streamline workflows.",
+        "Created a Bluetooth-integrated smartwatch health monitoring app with IoT capabilities for real-time data visualization."
+      ],
+      "achievements": [
+        "Developed an AI-powered native Android application leveraging Large Language Models (LLMs) for intelligent user interactions and task automation.",
+        "Implemented advanced NLP capabilities to enhance responsiveness and streamline complex workflows.",
+        "Developed a Bluetooth-integrated smartwatch health monitoring app using IoT capabilities to seamlessly sync vital data such as heart rate, activity, and sleep patterns.",
+        "Enabled real-time data visualization and analysis, enhancing user experience and engagement.",
+        "Contributed as a full-stack developer to build and optimize the GCP-based backend for enhanced app performance, scalability, and secure data transmission.",
+        "Implemented robust APIs and data encryption mechanisms to ensure seamless integration and user trust."
+      ]
+    },
+    {
+      "company": "DoTech Technologies",
+      "location": "Noida",
+      "title": "Software Engineer",
+      "start_date": "February 2020",
+      "end_date": "February 2021",
+      "responsibilities": [
+        "Engineered a secure full-stack product for storing user credentials with robust encryption mechanisms.",
+        "Developed ERP software, e-commerce apps, and ed-tech platforms, ensuring functionality and security.",
+        "Integrated payment gateways and optimized backend systems for performance and scalability."
+      ],
+      "achievements": [
+        "Engineered a secure full-stack product for storing user credentials with robust encryption mechanisms.",
+        "Developed ERP software, e-commerce apps, and ed-tech platforms, ensuring seamless functionality and robust security.",
+        "Led the design and implementation of scalable backend systems and integrated payment gateways for e-commerce solutions.",
+        "Optimized user experience across mobile and web platforms.",
+        "Collaborated with cross-functional teams to deliver high-quality solutions, ensuring performance, scalability, and security in all projects."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Himalayan University",
+      "degree": "Bachelor of Technology in Computer Science",
+      "start_date": "2016",
+      "end_date": "2020",
+      "details": "Gained a strong foundation in engineering principles, software development, and project management."
+    },
+    {
+      "institution": "NIIT Institute",
+      "degree": "GNIIT in Cloud and Mobile Software Engineering",
+      "start_date": "2017",
+      "end_date": "2019",
+      "details": "Acquired hands-on experience in cloud computing, mobile app development, and modern software engineering practices."
+    }
+  ],
+  "skills": {
+    "front_end": [
+      "React.js",
+      "Next.js",
+      "HTML5",
+      "Javascript",
+      "Typescript",
+      "PWA",
+      "RestFul APIS",
+      "GraphQL",
+      "CSS3",
+      "Tailwind CSS",
+      "Sass",
+      "Bootstrap",
+      "jQuery",
+      "Webpack",
+      "Babel",
+      "Parcel"
+    ],
+    "cloud_platforms": ["AWS", "AWS SAM", "Firebase"],
+    "web_development": [
+      "React.js",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "RESTful APIs",
+      "GraphQL"
+    ],
+    "mobile_development": ["React Native", "Android (Java, Kotlin)"],
+    "backend_development": [
+      "Node.js",
+      "Java",
+      "Python",
+      "Express.js",
+      "GraphQL",
+      "Django",
+      "Docker",
+      "RESTful APIs",
+      "NestJS",
+      "FastAPI",
+      "Microservices Architecture",
+      "Socket.io",
+      "Kubernetes"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Firebase Realtime Database",
+      "DynamoDB",
+      "Athena",
+      "Oracle"
+    ],
+    "search_technologies": ["Elasticsearch", "Kibana", "Logstash"],
+    "machine_learning_ai": [
+      "Machine Learning Algorithms",
+      "Generative AI",
+      "Prompt Engineering",
+      "Large Language Models (LLMs)",
+      "Natural Language Processing (NLP)",
+      "Machine Learning",
+      "Deep Learning",
+      "AI Model Deployment",
+      "Natural Language Processing (NLP)",
+      "Tensorflow",
+      "PyTorch",
+      "OpenCV",
+      "Scikit-learn",
+      "Computer Vision",
+      "Prompt Engineering",
+      "Agentic AI",
+      "Pretrained Models",
+      "AI Ethics",
+      "LLM",
+      "Time Series Forecasting",
+      "Feature Engineering",
+      "AI-driven Automation",
+      "Data Preprocessing",
+      "Recommender Systems",
+      "Sentiment Analysis",
+      "Speech Recognition",
+      "AI Algorithms"
+    ],
+    "devops": [
+      "Git",
+      "CI/CD",
+      "Terraform",
+      "Kubernetes",
+      "Atlassian Suite (Jira, Confluence, Bitbucket)",
+      "Docker",
+      "Kubernetes",
+      "AWS CloudFormation"
+    ],
+    "other": [
+      "API Security (OAuth2, JWT)",
+      "Serverless Architectures (AWS Lambda, Google Cloud Functions)",
+      "Monitoring (ELK Stack, Prometheus, Grafana)",
+      "Test-Driven Development (TDD)",
+      "Unit Testing",
+      "Agile Project Management Tools",
+      "Jira",
+      "Trello",
+      "Asana"
+    ]
+  },
+  "languages": [
+    { "name": "English", "proficiency": "Fluent" },
+    { "name": "Hindi", "proficiency": "Native" }
+  ],
+
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Beedwala - Mobile App (React Native with Express.js and MongoDB)",
+        "about": "The Beedwala app is a mobile platform built using React Native with a backend powered by Express.js and a MongoDB database. The app serves as an online marketplace for beekeepers to buy and sell honey, beekeeping supplies, and other related products.",
+        "key_features": [
+          "Product Listing: The app displays products related to beekeeping, including honey, equipment, and supplies.",
+          "Cart and Checkout: Users can add items to the cart and proceed with secure checkout using the payment gateway integrated into the backend.",
+          "User Authentication: The app allows users to sign up, log in, and access their orders and personal information securely.",
+          "Order Tracking: Beekeepers can track their orders and see their delivery status in real-time."
+        ],
+        "technologies_used": [
+          "React Native",
+          "Express.js",
+          "MongoDB",
+          "JWT",
+          "Stripe API"
+        ],
+        "outcome": "The Beedwala app enables beekeepers to easily buy and sell products while providing a simple and intuitive shopping experience."
+      },
+      {
+        "title": "EzzyClick LLC - Clothing Mobile App (React Native)",
+        "about": "Developed a mobile app for EzzyClick LLC using React Native, offering a seamless shopping experience for customers in categories like kids, men, and women.",
+        "key_features": [
+          "Multi-category Shopping: Offers clothing options for kids, men, and women.",
+          "Product Search and Filters: Customers can easily search for items and filter them based on size, color, and more.",
+          "Cart and Checkout: Users can add items to the cart and complete the checkout process.",
+          "User Authentication: Supports user authentication for personalized shopping."
+        ],
+        "technologies_used": [
+          "React Native",
+          "Expo",
+          "Redux",
+          "Firebase",
+          "React Navigation"
+        ],
+        "outcome": "The app provides a comprehensive clothing shopping experience with smooth navigation and a responsive design."
+      },
+      {
+        "title": "ooDzee - Food Order and Delivery App",
+        "about": "A UI-focused food order and delivery app designed with React Native, featuring Google Maps integration for restaurant locations. The app currently lacks live API integration but is built for future scalability.",
+        "key_features": [
+          "Google Maps Integration: Users can explore restaurant locations and delivery zones visually.",
+          "UI/UX Design: Focus on elegant and responsive design for smooth navigation.",
+          "Mobile Responsiveness: Ensures a seamless experience on various device sizes."
+        ],
+        "technologies_used": [
+          "React Native",
+          "React Navigation",
+          "React Native Maps",
+          "React Native Responsive Screen"
+        ],
+        "outcome": "ooDzee provides a simple, engaging UI for food ordering with Google Maps integration, laying the foundation for future enhancements."
+      },
+      {
+        "title": "Heritage Food",
+        "about": "A restaurant app built with React for browsing authentic Indian food and booking reservations or takeaway orders. The app integrates Stripe for payments.",
+        "key_features": [
+          "Reservation System: Users can book tables for dine-in or opt for takeaway.",
+          "Takeaway Ordering: Convenient ordering system for on-the-go customers.",
+          "Payment Integration: Stripe used for seamless online payment."
+        ],
+        "technologies_used": ["React", "Material UI", "Stripe"],
+        "outcome": "Heritage Food successfully combines technology with traditional cuisine, providing a seamless customer experience for reservations and takeaway."
+      },
+      {
+        "title": "Comfy House - Furniture Selling App",
+        "about": "A simple furniture-selling app built with Vanilla JavaScript, offering users a clean UI to browse and purchase furniture online.",
+        "key_features": [
+          "Product Listing: Users can view various furniture items and add them to the cart.",
+          "Checkout Process: Users can complete purchases through a simple form-based system.",
+          "Mobile Responsiveness: Ensures smooth experience on both desktop and mobile devices."
+        ],
+        "technologies_used": ["Vanilla JavaScript", "HTML", "CSS"],
+        "outcome": "Comfy House showcases the power of Vanilla JavaScript for building lightweight, responsive applications."
+      },
+      {
+        "title": "Word Beater Game",
+        "about": "A fun word-typing game built with Vanilla JavaScript, where players type scrolling words while tracking speed and accuracy.",
+        "key_features": [
+          "Game Logic: Tracks typing speed and accuracy while words scroll.",
+          "Graphical Representation: Displays words per minute (WPM) performance.",
+          "Mobile Responsiveness: Works seamlessly on both desktop and mobile."
+        ],
+        "technologies_used": ["Vanilla JavaScript", "HTML", "CSS"],
+        "outcome": "Word Beater enhances typing speed and accuracy while providing an interactive gaming experience."
+      },
+      {
+        "title": "Lyrics Finder - Lyrics Search App",
+        "about": "A lyrics search app built with Babel and JavaScript, allowing users to find song lyrics through a simple search bar.",
+        "key_features": [
+          "API Integration: Fetches lyrics from a public API based on search queries.",
+          "Search Functionality: Users can search for lyrics by song title or artist.",
+          "User-friendly UI: Minimal and efficient design."
+        ],
+        "technologies_used": ["Babel", "JavaScript", "API Integration"],
+        "outcome": "Lyrics Finder provides a simple, efficient solution for users to search for song lyrics online."
+      }
+    ]
+  }
+}
