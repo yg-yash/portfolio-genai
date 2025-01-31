@@ -4,9 +4,6 @@ import requests
 from dotenv import load_dotenv
 import os
 from pinecone import Pinecone
-from sklearn.decomposition import PCA
-import numpy as np
-
 
 load_dotenv()
 
