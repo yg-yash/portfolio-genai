@@ -6,3 +6,4 @@ pinecone
 fastapi
 uvicorn
 python-dotenv
+requests
