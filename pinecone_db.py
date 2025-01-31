@@ -3,14 +3,17 @@ from pinecone import Pinecone, ServerlessSpec
 from transformers import AutoTokenizer, AutoModel
 import torch
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Initialize Pinecone
-pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
+pc = Pinecone(api_key=os.getenv("PINE_CONE_API_KEY"))
 
 # Create a Pinecone index
 index_name = "bio-data-index"
 if index_name not in pc.list_indexes():
-    pc.create_index(index_name, dimension=384, metric="cosine", spec=ServerlessSpec(
+    pc.create_index(index_name, dimension=768, metric="cosine", spec=ServerlessSpec(
         cloud="aws",
         region="us-east-1"
     ))  # Dimension should match your embedding size
@@ -52,7 +55,7 @@ for project in bio_data["portfolio"]["projects"]:
     docs.append(f"Technologies: {', '.join(project['technologies_used'])}")
 
 # Hugging Face model for embeddings
-model_name = "sentence-transformers/all-MiniLM-L6-v2"  # Choose your preferred Hugging Face model
+model_name = "facebook/bart-base"  # Choose your preferred Hugging Face model
 
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModel.from_pretrained(model_name)
